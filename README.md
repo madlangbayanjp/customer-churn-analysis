@@ -17,7 +17,7 @@ Two datasets were used:
 ---
 
 ## Dashboard Preview  
-![Dashboard Overview](images/overview.png)  
+![Dashboard Overview](dashboard.png)  
 
 ---
 
