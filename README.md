@@ -1,6 +1,6 @@
-# 📊 Customer Churn Analysis (Excel)  
+# Customer Churn Analysis (Excel)  
 
-## 📌 Overview  
+## Overview  
 This project analyzes **customer churn data** using Microsoft Excel. The goal is to understand which factors contribute to churn, identify customer risk profiles, and summarize insights through an **interactive Excel dashboard**.  
 
 Two datasets were used:  
@@ -11,7 +11,7 @@ The analysis was done entirely in Excel using **PivotTables, PivotCharts, formul
 
 ---
 
-## 🗂 Dataset  
+## Dataset  
 
 ### Customer-Level Dataset (Individual Records)  
 Columns include:  
@@ -52,7 +52,7 @@ Columns include:
 
 ---
 
-## 🔍 Methodology  
+## Methodology  
 - **Data Cleaning** → Removed duplicates, checked missing values  
 - **PivotTables** → Explored churn by demographics, tenure, usage, and billing  
 - **Aggregate Analysis** → Used grouped dataset for higher-level churn insights  
@@ -61,13 +61,13 @@ Columns include:
 
 ---
 
-## 📈 Dashboard Preview  
+## Dashboard Preview  
 
 ### Churn Overview  
 ![Churn Overview](images/overview.png)  
 
 ### Churn by Demographics
-![Churn by Demographics](images/churn_by_demographics.png)
+![Churn by Demographics](images/churn by demographics.png)
 
 This pie shows that most of the customers who churned are aged 30 and below.
 
