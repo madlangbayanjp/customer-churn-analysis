@@ -67,9 +67,7 @@ Columns include:
 ![Churn Overview](images/overview.png)  
 
 ### Churn by Demographics
-![Churn by Demographics](images/churn by demographics.png)
-
-This pie shows that most of the customers who churned are aged 30 and below.
+![Churn by Demographics](images/churn_by_demographics.png)
 
 ### Churn by Monthly Charges  
 ![Churn by Charges](images/churn_charges.png)  
