@@ -66,8 +66,10 @@ Columns include:
 ### Churn Overview  
 ![Churn Overview](images/overview.png)  
 
-### Churn by Contract Type  
-![Churn by Contract](images/churn_contract.png)  
+### Churn by Demographics
+![Churn by Demographics](images/churn_by_demographics.png)
+
+This pie shows that most of the customers who churned are aged 30 and below.
 
 ### Churn by Monthly Charges  
 ![Churn by Charges](images/churn_charges.png)  
