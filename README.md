@@ -1,16 +1,15 @@
-# Customer Churn Analysis
+📊 Customer Churn Analysis (Excel)
+📌 Overview
 
-Project Overview
+This project analyzes customer churn data using Microsoft Excel. The goal is to identify patterns in customer behavior, understand which factors drive churn, and present findings through an interactive Excel dashboard.
 
-This project analyzes customer churn using Microsoft Excel. The goal is to identify factors that influence customer attrition and provide insights that can help businesses improve retention.
-
-The project uses PivotTables, charts, conditional formatting, and formulas to explore churn patterns and build an interactive dashboard.
+Unlike traditional coding approaches, this analysis was performed entirely in Excel using PivotTables, charts, conditional formatting, and slicers.
 
 🗂 Dataset
 
-The dataset includes:
+The dataset contains customer demographics, account details, and subscription information. Example fields:
 
-CustomerID – Unique identifier
+CustomerID – Unique customer identifier
 
 Demographics – Age, gender, location
 
@@ -20,29 +19,24 @@ Services – Internet, phone, streaming, tech support
 
 Churn – Target variable (Yes/No)
 
-🔍 Analysis Approach
+🔍 Methodology
 
-Data Cleaning – Handling missing values, duplicates
+Data Cleaning → Removed duplicates, handled missing values
 
-Exploratory Data Analysis – PivotTables to analyze churn by tenure, contract type, and monthly charges
+Exploratory Data Analysis (EDA) → Used PivotTables to explore churn patterns
 
-Visualizations – Bar charts, pie charts, line charts for churn trends
+Visualization → Bar charts, line graphs, pie charts, and KPIs
 
-Conditional Formatting – Highlighting high-risk churn groups
-
-KPIs – Churn rate, average tenure, revenue per customer
+Dashboard Creation → Combined results into a single interactive view with slicers
 
 📈 Dashboard Preview
+Churn Overview
 
-Here are some screenshots from the Excel dashboard:
+Churn by Contract Type
 
-📊 Churn Overview
+Churn by Monthly Charges
 
-📉 Churn by Contract Type
-
-📈 Churn by Monthly Charges
-
-📊 Interactive Dashboard (Pivot & Slicers)
+Full Interactive Dashboard
 
 ⚙️ Tools Used
 
@@ -52,26 +46,34 @@ PivotTables & PivotCharts
 
 Conditional Formatting
 
+Slicers & Filters
+
 IF, COUNTIF, AVERAGEIF formulas
-
-Slicers for interactive dashboards
-
-Power Query (optional)
 
 🚀 How to Use
 
 Download or clone this repository.
 
-Open Customer_Churn_Analysis.xlsx in Excel.
+Open Customer_Churn_Analysis.xlsx.
 
-Navigate to the Dashboard sheet.
+Go to the Dashboard sheet.
 
-Use filters and slicers to explore churn insights.
+Use the slicers and filters to interact with the visuals.
+
+📌 Key Insights
+
+Month-to-month contract customers churn the most.
+
+Higher monthly charges are linked to higher churn.
+
+Long-tenure customers are more loyal.
+
+Add-on services like tech support reduce churn.
 
 📌 Future Improvements
 
-Automate dataset refresh using Power Query
+Automate dataset refresh with Power Query
 
-Add predictive churn scoring with Excel formulas
+Add predictive churn scoring using Excel formulas
 
-Build a Power BI version for advanced visuals
+Expand dashboard to include revenue impact analysis
