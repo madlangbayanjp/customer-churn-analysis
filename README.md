@@ -5,7 +5,9 @@ This project analyzes **customer churn data** using Microsoft Excel. The goal is
 
 Two datasets were used:  
 1. **Customer Dataset** → individual-level data (one row per customer)  
-2. **Aggregate Dataset** → grouped and summarized data (e.g., by demographics, age, customer reason,etc.)  
+2. **Aggregate Dataset** → grouped and summarized data (e.g., by demographics, age, customer reason,etc.)
+
+The excel file already contains the dataset that is used
 
 ---
 
