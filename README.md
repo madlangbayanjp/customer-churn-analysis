@@ -1,7 +1,7 @@
-# Customer Churn Analysis (Excel)  
+# Customer Churn Analysis
 
 ## Overview  
-This project analyzes **customer churn data** using Microsoft Excel. The goal is to understand which factors contribute to churn, identify customer risk profiles, and summarize insights through an **interactive Excel dashboard**.  
+This project analyzes **customer churn data** using Microsoft Excel. The goal is to understand which factors contribute to churn, identify customer risk profiles, and summarize insights through an **Excel dashboard**.  
 
 Two datasets were used:  
 1. **Customer Dataset** → individual-level data (one row per customer)  
