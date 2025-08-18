@@ -23,14 +23,14 @@ The analysis was done entirely in Excel using **PivotTables, PivotCharts, formul
 
 ---
 
-## 📌 Key Insights  
+## Key Insights  
 - A lot of customers churned because other competitors made a better offer
 - Most of the customers who churn are seniors
 - The higher the age, the higher the chance of churn rate
 
 ---
 
-## 🔮 Future Improvements  
+## Future Improvements  
 - Interactive dashboard using PowerBI
 - Automate dataset refresh with **Power Query**  
 - Build predictive churn scoring logic using Excel formulas  
