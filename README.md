@@ -67,7 +67,7 @@ Columns include:
 ![Churn Overview](images/overview.png)  
 
 ### Churn by Demographics
-![Churn by Demographics](images/churn_by_demographics.png)
+![Churn by Demographics](images/churn_by_demographics)
 
 ### Churn by Monthly Charges  
 ![Churn by Charges](images/churn_charges.png)  
