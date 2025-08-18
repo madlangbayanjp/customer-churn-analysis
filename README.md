@@ -64,7 +64,7 @@ Columns include:
 ## 📈 Dashboard Preview  
 
 ### Churn Overview  
-![Churn Overview](images/overview)  
+![Churn Overview](images/overview.png)  
 
 ### Churn by Contract Type  
 ![Churn by Contract](images/churn_contract.png)  
