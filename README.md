@@ -23,6 +23,13 @@ The excel file already contains the dataset that is used
 
 ---
 
+## Project Objectives | Business Questions
+- What are the main reasons why customers churn?
+- What age demographics are the customers?
+- Based on the analysis, what should be the right move to keep the customers?
+
+---
+
 ## Key Insights  
 - A lot of customers churned because other competitors made a better offer
 - Most of the customers who churn are seniors
@@ -34,4 +41,5 @@ The excel file already contains the dataset that is used
 - Interactive dashboard using PowerBI
 - Automate dataset refresh with **Power Query**  
 - Build predictive churn scoring logic using Excel formulas  
-- Extend dashboard with **revenue impact analysis**  
+- Extend dashboard with **revenue impact analysis**
+- Will add a presentation soon
